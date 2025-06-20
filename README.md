@@ -1,4 +1,4 @@
 ode_examples
 ============
 
-ODE examples for the Southern-Summer School on Mathematical Biolog
+Tutorials in R and python to build, solve and analyze Ordinary Differential Equation models in Ecology, Epidemiologya and Evolution
